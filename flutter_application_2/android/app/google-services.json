@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164535431568",
+    "project_id": "aptnote-30ef5",
+    "storage_bucket": "aptnote-30ef5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164535431568:android:dd98c3915ce411c5854315",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYcguaYtaTEwa4tXwMAQwT2Nj7TD7gEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
